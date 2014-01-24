@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">搜索网易公开课</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">设置</string>
+    <string name="title_activity_main">搜索网易公开课</string>
+	<string name="default_content_description">网易</string>
+	<string name="input_hint">请输入关键字</string>
+	
+    <string name="keyword_charset">GB2312</string>
+    <string name="result_begin">class=\&quot;searchArea-result\&quot;&gt;</string>
+    <string name="result_end">class=\&quot;contentArea-resultList\&quot;&gt;</string>
+</resources>
